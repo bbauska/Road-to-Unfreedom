@@ -1,5 +1,4 @@
 User-Agent: *
-Disallow: bitchesandgripes.md, compact-gallery.html, css/DOM-Tree-master.zip, css/cards-gallery.css,
-  css/compact-gallery.css, css/domtree.css, css/grid-gallery.css, css/reset.css, css/set-width.css
+Disallow: 
 
-Sitemap: https://github.com/bbauska/brians-template, https://Brians-Template.bauska.org
+Sitemap: https://github.com/bbauska/Road-to-Unfreedom, https://Road.bauska.org
