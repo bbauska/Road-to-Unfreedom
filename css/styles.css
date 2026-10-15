@@ -219,3 +219,10 @@ p:first-of-type:first-letter {
   width: 10%;
   margin: 40px auto;
 }
+.full-section-divider {
+  border: none;
+  height: 2px;
+  background-color: #222;
+  width: 100%;
+  margin: 40px auto;
+}
